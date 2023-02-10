@@ -1,0 +1,12 @@
+- ApiHost: "http://10.117.55.66/"
+  ApiHostPort: "http://10.117.55.66:16053"
+- dataHost: "10.117.55.66"
+  user: "root"
+  password: "1234567890///"
+  databases: 'tes'
+  port: 3306
+- dataHost: "10.117.55.66"
+  user: "root"
+  password: "1234567890///"
+  databases: 'wes'
+  port: 3306

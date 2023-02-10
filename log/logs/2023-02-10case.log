@@ -1,0 +1,3 @@
+2023-02-10 09:35:21,484 -2023-02-10case.log -20 -get_log.py -40 -这是一个INFO日志
+2023-02-10 09:41:48,587-INFO-get_log.py-Line:42-Message:这是一个INFO日志
+2023-02-10 09:42:27,708 -INFO -get_log.py -Line:42 -Message:这是一个INFO日志
