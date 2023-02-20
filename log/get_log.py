@@ -1,6 +1,6 @@
 import os
 import logging
-from datetime import datetime
+import datetime
 from logging.handlers import RotatingFileHandler
 
 # print(datetime.now().date())
@@ -39,6 +39,7 @@ def get_log(log_name):
 
 
 if __name__ == '__main__':
-    log = get_log(str(datetime.now().date()) + 'case.log')
+    log = get_log(str(datetime.datetime.now().date()) + 'case.log')
     log.info('这是一个INFO日志')
+
 
