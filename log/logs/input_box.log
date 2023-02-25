@@ -1,0 +1,9 @@
+2023-02-22 17:37:51,417 -INFO -wesApi.py -Line:327 -Message:调用者传入容器规格参数:None,sku参数为：None
+2023-02-22 17:37:51,417 -INFO -wesApi.py -Line:22 -Message:容器规格：900345712，sku为：202302221737
+2023-02-22 17:37:51,495 -INFO -wesApi.py -Line:734 -Message:调用者传入容器规格参数:900345712,sku参数为：202302221737
+2023-02-22 17:37:51,760 -INFO -wesApi.py -Line:776 -Message:批次早入库托盘A1为：90000168
+2023-02-22 17:39:15,383 -INFO -wesApi.py -Line:822 -Message:生产日期早入库托盘A2为：9000043
+2023-02-22 17:39:58,056 -INFO -wesApi.py -Line:830 -Message:入库托盘A3为：90000439
+2023-02-22 17:41:13,881 -INFO -wesApi.py -Line:838 -Message:入库托盘A4为：90000637
+2023-02-22 17:41:59,948 -INFO -wesApi.py -Line:882 -Message:批次晚入库托盘A5为：90000814
+2023-02-22 17:42:37,705 -INFO -wesApi.py -Line:928 -Message:生成日期晚入库托盘A6为：9000058
