@@ -284,7 +284,7 @@ class TesApi:
     # 查询电量为0小车
     def select_car(self):
         sql = """select * from tes.robot where region_code = 'ps' 
-        and  ext like '%"ucPower":20%'"""
+        and  ext like '%"ucPower":0%'"""
         res_sql = SqlUtil().connect_data_tes(sql)
         return res_sql
 
